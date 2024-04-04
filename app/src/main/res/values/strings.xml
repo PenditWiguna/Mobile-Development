@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppGithub</string>
+   <string name="AppGithub">AppGithub</string>
+    <string name="Detail">Detail</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="favourite">Favourite</string>
+    <string name="cari_username">Cari Username</string>
+
+    <string-array name="Languages">
+        <item>Black</item>
+        <item>White</item>
+    </string-array>
+</resources>
